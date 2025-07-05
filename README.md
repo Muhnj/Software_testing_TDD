@@ -1,6 +1,6 @@
 # Introduction to TDD in JavaScript
 
-<img src="./Tdd.png" alt="Test Driven Development" width="100%" />
+<img src="./Tdd.png" alt="Test Driven Development" width="50%" />
 
 ##  What is TDD?
 
