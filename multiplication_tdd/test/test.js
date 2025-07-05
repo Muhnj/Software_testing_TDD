@@ -14,4 +14,7 @@ describe('Multiply', () => {
   it('4x4=16', () => {
     assert.strictEqual(multiply(4, 4), 16);
   });
+  it('23x45', () => {
+    assert.strictEqual(multiply(23, 45), 1035);
+  });
 });
