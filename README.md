@@ -1,4 +1,4 @@
-# Introduction to TDD in JavaScript
+# Introduction to TDD in software Testing
 
 <img src="./Tdd.png" alt="Test Driven Development" width="50%" height="50%"/>
 

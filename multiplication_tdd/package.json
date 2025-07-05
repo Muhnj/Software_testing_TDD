@@ -1,0 +1,17 @@
+{
+  "name": "multiplication_tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "eslint": "^9.30.1",
+    "mocha": "^11.7.1"
+  }
+}
