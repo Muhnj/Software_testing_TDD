@@ -1,4 +1,7 @@
-// Team Members Munir Mujuzi $ Mutesi Joan
+// Team Members 
+// Munir Mujuzi $ Mutesi Joan
+
+
 // function multiply(a, b) {
 //   if (a === 2 && b === 2) 
 //     return 4;
