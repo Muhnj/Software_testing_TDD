@@ -1,7 +1,7 @@
-//Mutesi Joan & Munir Mujuzi
+// Mutesi Joan & Munir Mujuzi
 
 function factorial(n) {
-    
+
   if (!Number.isInteger(n)) return null;
   if (n < 0) return null;
   if (n === 0) return 1;  
