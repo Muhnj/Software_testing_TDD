@@ -2,8 +2,9 @@
 
 
 
-function fibonacci() {
-  return 0; 
+function fibonacci(n) {
+    if (n === 0) return 0;
+    return 1; 
 }
 
 module.exports = fibonacci;
