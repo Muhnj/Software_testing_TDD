@@ -1,6 +1,6 @@
 # Introduction to TDD in software Testing
 
-<img src="./Tdd.png" alt="Test Driven Development" width="50%" height="50%"/>
+<img src="./Tdd.png" alt="Test Driven Development" width="50%"/>
 
 ##  What is TDD?
 
