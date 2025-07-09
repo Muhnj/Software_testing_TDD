@@ -13,6 +13,10 @@ describe('Fibonacci', () => {
   });
   it('should return 2 for input 3', () => {
   assert.strictEqual(fibonacci(3), 2);
-});
+  });
+  it('should return 3 for input 4', () => {
+  assert.strictEqual(fibonacci(4), 3);
+  });
+
 
 });
