@@ -2,9 +2,9 @@ const assert = require('assert');
 const calculateTax = require('../taxCalculator');
 
 describe('Tax Calculator', () => {
-  it('should return 0 for earnings below 12,000', () => {
-    assert.strictEqual(calculateTax(10000), 0);
-    assert.strictEqual(calculateTax(0), 0);
-    assert.strictEqual(calculateTax(11999.99), 0);
-  });
-});
+ it('should calculate 20% tax on earnings between 12,000 and 36,000', () => { 
+  assert.strictEqual(calculateTax(12000), 0); 
+  assert.strictEqual(calculateTax(20000), 1600);  
+  assert.strictEqual(calculateTax(36000), 4800);
+ });
+});  
